@@ -44,11 +44,15 @@
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
 | {CSCI 6212} {Design and Analysis of Algorithms} | {spring} {2014} | {semester} {year}  | {no} | {yes}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| {CSCI 6221} {Advanced Software Paradigms} | {Fall} {2013} | {semester} {year}  | {no} | {yes}|
+| {CSCI 6907} {Introdyuction to mobile robotics} | {Fall} {2012} | {semester} {year}  | {no} | {yes}|
+| {CSCI 5606} {Prin of Num Computation} | {Fall} {2014} | {semester} {year}  | {no} | {yes}|
+| {CSCI 6233} {Software Testing and Quality} | {Spring} {2013} | {semester} {year}  | {no} | {yes}|
+| {CSCI 6907} {Advanced Machine Learning} | {Fall} {2012} | {semester} {year}  | {yes} | {no}|
+| {CSCI 6907} {Robot Games} | {Spring} {2013} | {semester} {year}  | {yes} | {no}|
+| {CSCI 6908} {Independent research} | {Spring} {2013} | {semester} {year}  | {yes} | {no}|
+| {CSCI 6908} {Independent research} | {Spring} {2014} | {semester} {year}  | {yes} | {no}|
+| {CSCI 7000} {Current Tpcs in Computer Sci} | {Fall} {2014} | {semester} {year}  | {yes} | {no}|
 
 ## Post Graduation Goals
 
