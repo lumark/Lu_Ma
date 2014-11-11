@@ -24,7 +24,7 @@
 ## Committee 
 [Fill out your thesis committee below, if you know it]
 
-* Member 1 
+* Gabe Sibley
 * Memeber 2
 * Member 3
 * Member 4 
