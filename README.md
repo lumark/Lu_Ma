@@ -1,25 +1,25 @@
 # Personal Information
 
 ## Name
-[lu ma]
+lu ma
 
 ## Photo
 [upload a photo and add it here]
 [This is the syntax for uploading a photo: ![](images/profile.png)]
 
 ## Email
-[lu.ma@colorado.edu]
+lu.ma@colorado.edu
 
 ## Website
-[http://www.weebly.com/weebly/main.php]
+http://www.weebly.com/weebly/main.php
 
 # Current Funding
-[Fund by toyota for autonomous car project.]
+Fund by toyota for autonomous car project.
 
 # PhD Program
 
 ## Thesis Advisor
-[Gabe Sibley]
+Gabe Sibley
 
 ## Committee 
 [Fill out your thesis committee below, if you know it]
@@ -35,9 +35,9 @@
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
 | Start                | Fall 2014      |                   |
-| Area Exam            | {Fall} {2014} | {semester} {year} |
-| Proposal Defense     | {semester} {year} | {Fall} {2015} |
-| Dissertation Defense | {semester} {year} | Fall 2016         |
+| Area Exam            | Fall 2014 | semester year |
+| Proposal Defense     | semester year | Fall 2015 |
+| Dissertation Defense | semester year | Fall 2016         |
 
 ## Courses
 
