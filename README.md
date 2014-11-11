@@ -43,7 +43,7 @@
 
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| {CSCI 6212} {Design and Analysis of Algorithms} | {spring} {2014} | {semester} {year}  | {no} | {yes}|
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
