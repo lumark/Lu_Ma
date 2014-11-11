@@ -1,25 +1,25 @@
 # Personal Information
 
 ## Name
-[Place your name here]
+[lu ma]
 
 ## Photo
 [upload a photo and add it here]
 [This is the syntax for uploading a photo: ![](images/profile.png)]
 
 ## Email
-[your @colorado.edu address]
+[lu.ma@colorado.edu ]
 
 ## Website
 [If you have a website, put the URL here]
 
 # Current Funding
-[Explain your funding situation?]
+[By Toyota. This funding is relate on the autonmous car project we have. ]
 
 # PhD Program
 
 ## Thesis Advisor
-[Advisor name here]
+[Gabe Sibley]
 
 ## Committee 
 [Fill out your thesis committee below, if you know it]
@@ -34,21 +34,21 @@
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | Spring 2011       |                   |
-| Area Exam            | {semester} {year} | {semester} {year} |
-| Proposal Defense     | {semester} {year} | {semester} {year} |
-| Dissertation Defense | {semester} {year} | Fall 2014         |
+| Start                | Fall 2014       |                   |
+| Area Exam            | {Fall} {2014} | {semester} {year} |
+| Proposal Defense     | {semester} {year} | {Fall} {2015} |
+| Dissertation Defense | {semester} {year} | Fall 2016         |
 
 ## Courses
 
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| {number} {title} | {semester} {year} | {semester} {year}  | {yes} | {yes/no}|
+| {number} {title} | {semester} {year} | {semester} {year}  | {yes} | {yes/no}|
+| {number} {title} | {semester} {year} | {semester} {year}  | {yes} | {yes/no}|
+| {number} {title} | {semester} {year} | {semester} {year}  | {yes} | {yes/no}|
+| {number} {title} | {semester} {year} | {semester} {year}  | {yes} | {yes/no}|
+| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes}|
 
 ## Post Graduation Goals
 
@@ -59,7 +59,7 @@
 ## Publications
 [Use the following format to list your publications]
 
-* [year], [title], [conference or journal], [acceptance rate], [link to the paper]
+* [2014], [UNSUPERVISED DENSE OBJECT DISCOVERY, DETECTION, TRACKING AND RECONSTRUCTION], [ECCV], [22%], [https://arpg.colorado.edu/wp-content/uploads/unsupervised_dense_object_discovery_detection_tracking_and_reconstruction-1.pdf]
 
 ## Presentations
 [Insert file pointers or URLs to your presentations below]
