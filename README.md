@@ -49,14 +49,14 @@
 | CSCI 5606 Prin of Num Computation | Fall 2014 | semester year  | no | yes|
 | CSCI 6233 Software Testing and Quality | Spring 2013 | semester year  | no | yes|
 | CSCI 6907 Advanced Machine Learning | Fall 2012 | semester year  | yes | no|
-| CSCI 6907 Robot Games | Spring 2013 | semester year  | yes | {no}|
+| CSCI 6907 Robot Games | Spring 2013 | semester year  | yes | no|
 | CSCI 6908 Independent research | Spring 2013 | semester year  | yes | no|
 | CSCI 6908 Independent research | Spring 2014 | semester year  | yes | no|
 | CSCI 7000 Current Tpcs in Computer Sci | Fall 2014 | semester year  | yes | no|
 
 ## Post Graduation Goals
 
-{Academic position? Industry position? Government? Startup? Retired? Not sure?}
+{I want to work in the industry on computer vision or autonomous car.}
 
 # Research
 
