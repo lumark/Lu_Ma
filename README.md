@@ -21,8 +21,6 @@ Fund by toyota for autonomous car project.
 Gabe Sibley
 
 ## Committee 
-[Fill out your thesis committee below, if you know it]
-
 * Gabe Sibley
 * Memeber 2
 * Member 3
