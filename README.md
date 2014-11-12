@@ -5,7 +5,7 @@ lu ma
 
 ## Photo
 [upload a photo and add it here]
-[This is the syntax for uploading a photo: ![](images/profile.png)]
+[This is the syntax for uploading a photo: ![](image/profile.jpg)]
 
 ## Email
 lu.ma@colorado.edu
