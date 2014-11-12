@@ -4,7 +4,7 @@
 lu ma
 
 ## Photo
-[[](image/profile.jpg)]
+[Photo [](image/profile.jpg)]
 
 ## Email
 lu.ma@colorado.edu
